@@ -1,7 +1,7 @@
 ### Oi!! Eu sou o Felipe Gabriel 👋
 
 - 🔭 Hoje trabalho com back-end
-- 🌱 Estudando Node e Angular
+- 🌱 Estudando Node e React
 
 <div>
   <a href="https://github.com/Fe-grr">
