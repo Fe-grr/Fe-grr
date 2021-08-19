@@ -15,7 +15,7 @@
   <img align="center" alt="Fe-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Fe-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Fe-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="right" alt="Fe-spider" height="128px" width="290px" src="https://media3.giphy.com/media/PlsZcNzfW6vQYBL1FS/giphy.gif?cid=790b761199f7c0a0c3ddce2da25ba3859769ed522f5b5bf6&rid=giphy.gif&ct=g">
+  <img align="right" alt="Fe-spider" height="120" width="290" src="https://media3.giphy.com/media/PlsZcNzfW6vQYBL1FS/giphy.gif?cid=790b761199f7c0a0c3ddce2da25ba3859769ed522f5b5bf6&rid=giphy.gif&ct=g">
   <img src="https://komarev.com/ghpvc/?username=Fe-grr&color=green" alt="Fe-grr"/>
 </div>
   
