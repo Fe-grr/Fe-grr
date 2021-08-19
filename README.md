@@ -15,7 +15,6 @@
   <img align="center" alt="Fe-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Fe-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Fe-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="right" alt="Fe-spider" height="120" width="290" src="https://media3.giphy.com/media/PlsZcNzfW6vQYBL1FS/giphy.gif?cid=790b761199f7c0a0c3ddce2da25ba3859769ed522f5b5bf6&rid=giphy.gif&ct=g">
   <img src="https://komarev.com/ghpvc/?username=Fe-grr&color=green" alt="Fe-grr"/>
 </div>
   
@@ -30,3 +29,8 @@
   ![Snake animation](https://github.com/Fe-grr/Fe-grr/blob/output/github-contribution-grid-snake.svg)
  
 </div>
+  
+  <div>
+    <img align="center" alt="Fe-spider" height="250" width="300" src="https://media2.giphy.com/media/tUQqF6Ct1u7EQ/giphy.gif?cid=790b7611ed11f2f4e5d8687a2aacf1a52998b0944dffcfe5&amp;rid=giphy.gif&amp;ct=g">
+
+  </div>
