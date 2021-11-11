@@ -2,6 +2,8 @@
 
 - 🔭 Hoje trabalho com back-end
 - 🌱 Estudando Node e React
+- 🎓 Graduado do curso de ADS
+- 👨‍💻 Conhecimentos em .NET, SQL, C#, JS
 
 <div>
   <a href="https://github.com/Fe-grr">
