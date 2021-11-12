@@ -7,9 +7,9 @@
 
 <div>
   <a href="https://github.com/Fe-grr">
-    <img height="180em"
+    <img height="140em"
       src="https://github-readme-stats.vercel.app/api?username=fe-grr&show_icons=true&theme=omni&include_all_commits=true&count_private=true"/>
-    <img height="180em"
+    <img height="140em"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=fe-grr&layout=compact&langs_count=7&theme=omni"/>
 </div>
 <div style="display: inline_block"><br>
